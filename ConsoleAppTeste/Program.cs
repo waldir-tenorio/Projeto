@@ -9,8 +9,8 @@ namespace ConsoleAppTeste
             Console.WriteLine();
             Console.WriteLine("Hello World!");
             Console.WriteLine();
-            Console.WriteLine("Bom dia");
             Console.WriteLine("Como voce estah hoje?");
+            Console.WriteLine("Tenha um bom dia");
         }
     }
 }
